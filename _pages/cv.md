@@ -13,7 +13,7 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* 学士（文学） 早稲田大学, 2024
+* 学士（文学）(2024年3月 早稲田大学)
 
 <!-- Work experience
 ======
