@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "KATO Tsuyoshi (加藤剛)"
   pronouns         : # example: "she/her"  
-  bio              : "修士課程2年"
-  location         : "Tokyo"
-  employer         : "東京大学大学院教育学研究科"
+  bio              : "修士課程"
+  # location         : "Tokyo"
+  employer         : "東京大学大学院"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
