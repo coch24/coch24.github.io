@@ -23,9 +23,9 @@ repository               : "coch24/coch24.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "加藤 剛/KATO Tsuyoshi"
+  name             : "加藤 剛 / KATO Tsuyoshi"
   pronouns         : # example: "she/her"  
-  bio              : "修士課程"
+  bio              : # "修士課程"
   # location         : "Tokyo"
   employer         : "東京大学大学院"
   uri              : # URL
@@ -358,11 +358,11 @@ compress_html:
 languages:
   ja:
     name: "日本語"
-    title: "加藤 剛/KATO Tsuyoshi"
+    title: "加藤 剛 / KATO Tsuyoshi"
     description: "修士課程"
   en:
     name: "English"
-    title: "KATO Tsuyoshi/加藤 剛"
+    title: "KATO Tsuyoshi / 加藤 剛"
     description: "Master's Student"
 
 # English Collections (追加)
