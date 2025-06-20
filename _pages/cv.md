@@ -24,6 +24,10 @@ redirect_from:
 2024年3月　　早稲田大学文学部　卒業  
 2024年4月　　東京大学大学院教育学研究科　修士課程　入学  
 
+受賞
+======
+2025年6月　　日本計算機統計学会第39回大会　学生研究発表賞  
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
