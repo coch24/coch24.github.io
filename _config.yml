@@ -353,3 +353,38 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Multi-language Settings (追加)
+languages:
+  ja:
+    name: "日本語"
+    title: "KATO Tsuyoshi (加藤剛)"
+    description: "Master's Student"
+  en:
+    name: "English"
+    title: "KATO Tsuyoshi"
+    description: "Master's Student"
+
+# English Collections (追加)
+# ※既存のcollectionsセクションは変更せず、以下を追加
+collections:
+  # 既存のコレクション設定はそのまま保持
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  # 以下を新規追加
+  teaching-en:
+    output: true
+    permalink: /en/:collection/:path/
+  publications-en:
+    output: true
+    permalink: /en/:collection/:path/
+  talks-en:
+    output: true
+    permalink: /en/:collection/:path/
