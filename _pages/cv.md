@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+所属
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* 学士（文学）(2024年3月 早稲田大学)
+** 東京大学大学院教育学研究科　総合教育科学専攻　教育心理学コース　宇佐美慧研究室
+
+
+経歴
+======
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+** 2020年4月　　早稲田大学文学部　入学
+** 2024年3月　　早稲田大学文学部　卒業
+** 2024年4月　　東京大学教育学研究科　入学
 
 <!-- Work experience
 ======
@@ -32,11 +41,11 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * R
 * Python
-* Julia
+* Julia -->
 
 <!-- Publications
 ======
