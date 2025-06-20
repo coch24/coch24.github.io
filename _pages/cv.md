@@ -13,16 +13,16 @@ redirect_from:
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-** 東京大学大学院教育学研究科　総合教育科学専攻　教育心理学コース　宇佐美慧研究室
+東京大学大学院教育学研究科　総合教育科学専攻　教育心理学コース　宇佐美慧研究室
 
 
 経歴
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-** 2020年4月　　早稲田大学文学部　入学
-** 2024年3月　　早稲田大学文学部　卒業
-** 2024年4月　　東京大学教育学研究科　入学
+2020年4月　　早稲田大学文学部　入学  
+2024年3月　　早稲田大学文学部　卒業  
+2024年4月　　東京大学教育学研究科　入学  
 
 <!-- Work experience
 ======
