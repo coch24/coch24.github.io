@@ -60,9 +60,9 @@
         {% if is_english %}
           {% assign ja_url = current_path | remove: '/en' %}
           {% if ja_url == '' or ja_url == '/' %}{% assign ja_url = '/' %}{% endif %}
-          <a href="{{ base_path }}{{ ja_url }}" style="padding: 0.4em 0.8em; font-size: 0.85em; background: rgba(0,0,0,0.05); border-radius: 4px; text-decoration: none; color: inherit;" title="日本語版">🇯🇵 JP</a>
+          <a href="{{ base_path }}{{ ja_url }}" style="padding: 0.4em 0.8em; font-size: 0.85em; background: rgba(0,0,0,0.05); border-radius: 4px; text-decoration: none; color: inherit;" title="日本語版"> JP</a>
         {% else %}
-          <a href="{{ base_path }}/en{{ current_path }}" style="padding: 0.4em 0.8em; font-size: 0.85em; background: rgba(0,0,0,0.05); border-radius: 4px; text-decoration: none; color: inherit;" title="English version">🇺🇸 EN</a>
+          <a href="{{ base_path }}/en{{ current_path }}" style="padding: 0.4em 0.8em; font-size: 0.85em; background: rgba(0,0,0,0.05); border-radius: 4px; text-decoration: none; color: inherit;" title="English version"> EN</a>
         {% endif %}
       </div>
     </div>

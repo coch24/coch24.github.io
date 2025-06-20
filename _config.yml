@@ -23,11 +23,11 @@ repository               : "coch24/coch24.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "KATO Tsuyoshi"
+  name             : "加藤剛"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "修士課程2年"
   location         : "Tokyo"
-  employer         : "Red Brick University"
+  employer         : "東京大学大学院教育学研究科"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -359,7 +359,7 @@ languages:
   ja:
     name: "日本語"
     title: "KATO Tsuyoshi (加藤剛)"
-    description: "Master's Student"
+    description: "修士課程2年"
   en:
     name: "English"
     title: "KATO Tsuyoshi"
