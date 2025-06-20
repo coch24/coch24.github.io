@@ -6,21 +6,26 @@ author_profile: true
 lang: ja
 ---
 
-## 学術論文（査読付き）
+学術論文（査読付き）
+======
 1. 海野利文・**加藤剛**・小塩真司 (2024). 項目反応理論を用いたゲーム障害尺度の適用範囲の検討. パーソナリティ研究, *33*(3), 155-157. https://doi.org/10.2132/personality.33.3.1
 
 2. **加藤剛**・宇佐美慧 (印刷中). 認知診断モデルにおける逆説的なスコアリングの発生状況の検討. 日本テスト学会誌.
 
-## 学術論文（査読なし・プレプリント）
+学術論文（査読なし・プレプリント）
+======
 1. Saso, S., **Kato, T.**, Oka, M., Shiba, S., & Usami, S. (2025). A sequential general nonparametric classification method for polytomous responses. *PsyArXiv*. [Preprint]
 
-## 国内学会発表
+国内学会発表
+======
 1. 海野利文・**加藤剛**・小塩真司 (2024年9月). 3つのゲーム障害尺度の構造比較および精神健康指標との関連. 日本教育心理学会第66回総会, 静岡. [ポスター発表]
 
 2. **加藤剛**・佐宗駿・岡元紀 (2025年6月). 多値型反応に対する逐次一般ノンパラメトリック分類法の提案. 日本計算機統計学会第39回大会, 鹿児島. [口頭発表]
 
-## 国際学会発表
+国際学会発表
+======
 1. **Kato, T.**, Saso, S., & Usami, S. (2025, July). Examining the occurrence of paradoxical scoring in cognitive diagnostic models. *International Meeting of Psychometric Society (IMPS) 2025*, Minneapolis, MN, USA. [Accepted]
 
-## 著書
+著書
+======
 1. **加藤剛** (2023). 第8章 GPT/Transformer、第9章 教師なし学習1、第10章 教師なし学習2. 豊田秀樹 (編著), 人工知能入門：初歩からGPT/画像生成AIまで (pp. 159-246). 東京図書.
