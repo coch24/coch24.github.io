@@ -12,9 +12,13 @@ lang: ja
 
 2. **加藤剛**・宇佐美慧 (印刷中). 認知診断モデルにおける逆説的なスコアリングの発生状況の検討. 日本テスト学会誌.
 
+
+
 学術論文（査読なし・プレプリント）
 ======
 1. Saso, S., **Kato, T.**, Oka, M., Shiba, S., & Usami, S. (2025). A sequential general nonparametric classification method for polytomous responses. *PsyArXiv*. [Preprint]
+
+
 
 国内学会発表
 ======
@@ -22,9 +26,13 @@ lang: ja
 
 2. **加藤剛**・佐宗駿・岡元紀 (2025年6月). 多値型反応に対する逐次一般ノンパラメトリック分類法の提案. 日本計算機統計学会第39回大会, 鹿児島. [口頭発表]
 
+
+
 国際学会発表
 ======
 1. **Kato, T.**, Saso, S., & Usami, S. (2025, July). Examining the occurrence of paradoxical scoring in cognitive diagnostic models. *International Meeting of Psychometric Society (IMPS) 2025*, Minneapolis, MN, USA. [Accepted]
+
+
 
 著書
 ======
