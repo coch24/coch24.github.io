@@ -13,7 +13,7 @@ title                    : "KATO Tsuyoshi"
 title_separator          : "-"
 name                     : &name "KATO Tsuyoshi"
 description              : &description "Master's Student"
-url                      : https://coch24.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : coch24 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "coch24/coch24.github.io"
 
@@ -119,7 +119,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
