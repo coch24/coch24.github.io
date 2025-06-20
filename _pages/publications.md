@@ -2,7 +2,7 @@
 layout: archive
 title: "研究業績"
 permalink: /publications/
-author_profile: false
+author_profile: true
 lang: ja
 ---
 
