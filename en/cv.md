@@ -13,17 +13,17 @@ redirect_from:
 Affiliation
 ======
 Graduate School of Education, The University of Tokyo  
-Department of Comprehensive Educational Sciences  
-Educational Psychology Course  
+Department of Integrated Educational Sciences
+Division of Educational Psychology 
 Usami Laboratory
 
 Education & Experience
 ======
-April 2020　Entered School of Literature, Arts and Sciences, Waseda University  
-March 2024　Graduated from School of Literature, Arts and Sciences, Waseda University  
+April 2020　Entered School of Humanities and Social Sciences, Waseda University  
+March 2024　Graduated from School of Humanities and Social Sciences, Waseda University  
 April 2024　Entered Master's Program, Graduate School of Education, The University of Tokyo  
-July 2025　Project Researcher, Research Center for Advanced Science and Technology, The University of Tokyo
+July 2025　Project Researcher, Center for Research and Development on Transition from Secondary to Higher Education, The University of Tokyo
 
 Awards
 ======
-June 2025　Student Research Presentation Award, 39th Annual Conference of the Japanese Society of Computational Statistics
+June 2025　Student Research Presentation Award, the 39th Conference of the Japanese Society of Computational Statistics
