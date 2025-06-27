@@ -13,7 +13,7 @@ redirect_from:
 Affiliation
 ======
 Graduate School of Education, The University of Tokyo  
-Department of Integrated Educational Sciences
+Department of Integrated Educational Sciences  
 Division of Educational Psychology 
 Usami Laboratory
 
