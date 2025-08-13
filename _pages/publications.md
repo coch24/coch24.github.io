@@ -13,7 +13,7 @@ lang: ja
 
 
 # 学術論文（査読なし）
-1. Saso, S., **Kato, T.**, Oka, M., Shiba, S., & Usami, S. (2025). A sequential general nonparametric classification method for polytomous responses. *PsyArXiv*. [Preprint]
+1. Saso, S., **Kato, T.**, Oka, M., Shiba, S., & Usami, S. (2025). A sequential general nonparametric classification method for polytomous responses. *PsyArXiv*. https://doi.org/10.31234/osf.io/7qd5y_v1 [Preprint]
 <br><br>
 
 
